@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,signalr.net
+  - DOMAIN-SUFFIX,ccode.vip
 
   # --- 社区与小众协议 (Gemini/Gopher Space) ---
   - DOMAIN-SUFFIX,circumlunar.space
